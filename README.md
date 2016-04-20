@@ -1,4 +1,4 @@
-# BCcode
+# BCQRcode
 
 1.The use of the system comes with the API to achieve QR code generation and reading
 
